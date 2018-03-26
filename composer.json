@@ -14,6 +14,7 @@
         "bower-asset/punycode": "*",
         "bower-asset/yii2-pjax": "*",
         "bower-asset/bootstrap": "*",
-        "bower-asset/typeahead.js": "*"
+        "bower-asset/typeahead.js": "*",
+        "bower-asset/jquery.inputmask": "*"
     }
 }
